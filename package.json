@@ -1,0 +1,8 @@
+{
+	"author": "Ezzeldin Ismail",
+	"devDependencies":{
+		"PIL": "^1.1.7"
+	},
+	"Processing": "^0269",
+	"Python": "^3.7"
+}
